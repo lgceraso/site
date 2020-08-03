@@ -5,8 +5,8 @@ channel = input("Type the channel ID: ")
 engine = pyttsx3.init()
 server = 'irc.chat.twitch.tv'
 port = 6667
-nickname = 'yournickname'
-token = 'oauth:yourtoken'
+nickname = 'horadocontra'
+token = 'oauth:j3hkqw1fyrhaerttnr6cpvuir57jx8'
 
 def getuser(resp):
 	separate = resp.split(":",2)

@@ -10,8 +10,8 @@ channel = input("-> Type the channel id: " )
 quality = int(input("-> Quality:\n[0] 160p\n[1] 360p\n[2] 480\n[3] 720p\n[4] Source\n"))
 server = "irc.chat.twitch.tv"
 port = 6667
-nickname = "yournickname"
-token = "oauth:yourtoken"
+nickname = "horadocontra"
+token = "oauth:dnhgvm7p692kmaxth8zbup5pndd76t"
 
 #integrated chat
 def getuser(resp):
